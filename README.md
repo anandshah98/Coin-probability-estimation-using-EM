@@ -1,2 +1,2 @@
-# Coin-probability-estimation-using-EM
-Estimation probability of two coins through EM algorithm from an unknown distribution
+# Coin probability estimation using EM algorithm
+Estimation probability of two coins through Expectation Maximization (EM) algorithm from an unknown distribution (unknown coin probabilities)
